@@ -1,0 +1,11 @@
+C:\Users\victoriar\VirtualVendingMachine\19_Mini-Capstone\VendingMachine\bin\Debug\netcoreapp2.1\VendingMachine.deps.json
+C:\Users\victoriar\VirtualVendingMachine\19_Mini-Capstone\VendingMachine\bin\Debug\netcoreapp2.1\VendingMachine.runtimeconfig.json
+C:\Users\victoriar\VirtualVendingMachine\19_Mini-Capstone\VendingMachine\bin\Debug\netcoreapp2.1\VendingMachine.runtimeconfig.dev.json
+C:\Users\victoriar\VirtualVendingMachine\19_Mini-Capstone\VendingMachine\bin\Debug\netcoreapp2.1\VendingMachine.dll
+C:\Users\victoriar\VirtualVendingMachine\19_Mini-Capstone\VendingMachine\bin\Debug\netcoreapp2.1\VendingMachine.pdb
+C:\Users\victoriar\VirtualVendingMachine\19_Mini-Capstone\VendingMachine\obj\Debug\netcoreapp2.1\VendingMachine.csprojAssemblyReference.cache
+C:\Users\victoriar\VirtualVendingMachine\19_Mini-Capstone\VendingMachine\obj\Debug\netcoreapp2.1\VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\victoriar\VirtualVendingMachine\19_Mini-Capstone\VendingMachine\obj\Debug\netcoreapp2.1\VendingMachine.AssemblyInfoInputs.cache
+C:\Users\victoriar\VirtualVendingMachine\19_Mini-Capstone\VendingMachine\obj\Debug\netcoreapp2.1\VendingMachine.AssemblyInfo.cs
+C:\Users\victoriar\VirtualVendingMachine\19_Mini-Capstone\VendingMachine\obj\Debug\netcoreapp2.1\VendingMachine.dll
+C:\Users\victoriar\VirtualVendingMachine\19_Mini-Capstone\VendingMachine\obj\Debug\netcoreapp2.1\VendingMachine.pdb

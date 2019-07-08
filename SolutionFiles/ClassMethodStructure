@@ -1,0 +1,113 @@
+Userinterface: class
+
+	VendingMachine vendingMachine = new Vendingmachine();
+	VendingMachineItem item = new VendingMachineItem
+	public double balance get set
+	public bool placeHolder;
+	public List<string[]> AuditData()
+	
+	public void RunInterface()
+	{
+	
+	1. write the menu items (in a while loop, so when 3 is selected it exits the progrAm
+	
+	1. display
+	2. purchase
+	3. exit
+	
+	answer = Console.ReadLine()
+	
+	if answer = 1
+	
+	string line =""
+	
+	streamreader for (item file)
+	
+	while (!endofstream){
+	line = sr.ReadLine()
+	item.AddItem
+	}
+	
+	foreach( list of items){
+	
+		foreach(piece of information in an item)
+		
+		Console.Write[write each piece of info on the line with a space]
+	}
+	
+	[go back to menu]
+	
+	if answer = 2
+	
+	(console.WRiteLine the second menu)
+	
+		Do
+		{
+		placeHolder = Purchase(string input)
+		if(!placeHolder)
+			{
+				Write error message
+			}
+		else if(placeHolder)
+		{
+		placeHolder = true;
+		
+		}
+		while(!placeholder)
+	}
+	
+	
+	public void PrintAudit(List)
+	{
+	Loop and write list
+	
+	}
+	
+	
+	
+	
+	CLASS: VendingMachine
+	
+	List<VendingMachineItem> items = new List<VendingMachineItem>();
+	
+	public METHOD double FeedMoney (double [input from the ConsoleInterface])
+	{
+	Balance (back in Interface class) += (input converted to int)
+	
+	string [4] auditEntry = [0] = date/time, [1] = "FEED MONEY" [2] = input [3] = Balance.ToString
+	
+	[add this string array to the AuditData list in UserInterface Class
+	}
+	
+	public method string ReturnChange(double (the final balance))
+	{
+	have to use modulus function for quarters, dimes etc to find how many of each coin you get back, then return a string
+	ith that information, 
+	
+	Balance (from userinterface) = 0;
+	
+	string [4] auditEntry = [0] = date/time, [1] = "GIVE CHANGE" [2] = input [3] = "$0.00"
+	
+	[add string [] to the audit data array]
+	}
+	
+	Public method bool Purchase(string input)
+	{
+		bool can purchase;
+		
+		if item exists bool = false
+			return false
+		
+		if item exists bool = true
+		
+		if bool = true	
+			Balance = Balance - Price
+			Item(Quanity) - 1
+			return true
+	
+	}
+	
+
+	
+	
+	
