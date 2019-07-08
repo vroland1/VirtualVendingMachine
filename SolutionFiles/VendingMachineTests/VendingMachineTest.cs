@@ -15,7 +15,7 @@ namespace CapstoneTests
         [TestInitialize]
         public void Initialize()
         {
-            newObject = new VendingMachine(@"C:\Users\georgd\georgdeckner-c-sharp-material\team5-c-sharp-week4-pair-exercises\19_Mini-Capstone\etc\vendingmachine.csv");
+            newObject = new VendingMachine();
             newItem = new VendingMachineItem();
         }
 

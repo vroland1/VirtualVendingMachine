@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\victoriar\\VirtualVendingMachine\\19_Mini-Capstone\\VendingMachine\\VendingMachine.csproj",
+      "projectUniqueName": "C:\\Users\\victoriar\\VirtualVendingMachine\\SolutionFiles\\VendingMachine\\VendingMachine.csproj",
       "projectName": "VendingMachine",
-      "projectPath": "C:\\Users\\victoriar\\VirtualVendingMachine\\19_Mini-Capstone\\VendingMachine\\VendingMachine.csproj",
+      "projectPath": "C:\\Users\\victoriar\\VirtualVendingMachine\\SolutionFiles\\VendingMachine\\VendingMachine.csproj",
       "packagesPath": "C:\\Users\\victoriar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\victoriar\\VirtualVendingMachine\\19_Mini-Capstone\\VendingMachine\\obj\\",
+      "outputPath": "C:\\Users\\victoriar\\VirtualVendingMachine\\SolutionFiles\\VendingMachine\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -5843,11 +5843,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\victoriar\\VirtualVendingMachine\\19_Mini-Capstone\\VendingMachineTests\\VendingMachineTests.csproj",
+      "projectUniqueName": "C:\\Users\\victoriar\\VirtualVendingMachine\\SolutionFiles\\VendingMachineTests\\VendingMachineTests.csproj",
       "projectName": "VendingMachineTests",
-      "projectPath": "C:\\Users\\victoriar\\VirtualVendingMachine\\19_Mini-Capstone\\VendingMachineTests\\VendingMachineTests.csproj",
+      "projectPath": "C:\\Users\\victoriar\\VirtualVendingMachine\\SolutionFiles\\VendingMachineTests\\VendingMachineTests.csproj",
       "packagesPath": "C:\\Users\\victoriar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\victoriar\\VirtualVendingMachine\\19_Mini-Capstone\\VendingMachineTests\\obj\\",
+      "outputPath": "C:\\Users\\victoriar\\VirtualVendingMachine\\SolutionFiles\\VendingMachineTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5866,8 +5866,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\victoriar\\VirtualVendingMachine\\19_Mini-Capstone\\VendingMachine\\VendingMachine.csproj": {
-              "projectPath": "C:\\Users\\victoriar\\VirtualVendingMachine\\19_Mini-Capstone\\VendingMachine\\VendingMachine.csproj"
+            "C:\\Users\\victoriar\\VirtualVendingMachine\\SolutionFiles\\VendingMachine\\VendingMachine.csproj": {
+              "projectPath": "C:\\Users\\victoriar\\VirtualVendingMachine\\SolutionFiles\\VendingMachine\\VendingMachine.csproj"
             }
           }
         }
